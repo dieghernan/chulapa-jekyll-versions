@@ -1,5 +1,7 @@
 remote_theme: dieghernan/chulapa
 
+repository: dieghernan/chulapa-jekyll-versions
+
 # Find errors on this file with http://www.yamllint.com/
 
 # Chulapa docs: https://dieghernan.github.io/chulapa/docs/02-config
